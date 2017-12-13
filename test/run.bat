@@ -1,0 +1,1 @@
+task.exe  %1 %2 > result.txt
